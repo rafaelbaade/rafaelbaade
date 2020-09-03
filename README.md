@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 💬 Ask me about .net core back-end development, back-office and retail buisness logic
+- 🔭 I’m currently working on a solution to make financial education fun for kids
+- 🌱 I’m currently learning Clean Code, Clean Archictecture, DDD, Xamarin and Blazor
+- 📫 How to reach me: rafaelbaade@outlook.com
+- 🐦 Twitter: [rafaelbaade](https://twitter.com/rafaelbaade)
+- ⚡ Fun fact: I like to code drinking chimarrão 😁
+
 <!--
 **rafaelbaade/rafaelbaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
