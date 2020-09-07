@@ -3,10 +3,11 @@
 - 💬 Ask me about .net core back-end development, back-office and retail buisness logic
 - 🔭 I’m currently working on a solution to make financial education fun for kids
 - 🌱 I’m currently learning Clean Code, Clean Archictecture, DDD, Xamarin and Blazor
-- 📫 How to reach me: rafaelbaade@outlook.com
-- 🐦 Twitter: [rafaelbaade](https://twitter.com/rafaelbaade)
 - ⚡ Fun fact: I like to code drinking chimarrão 😁
 
+[![Twitter Badge](https://img.shields.io/badge/-Rafael%20Weimer%20Baade-2c2c2c?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/rafaelbaade)](https://twitter.com/rafaelbaade)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Weimer%20Baade-2c2c2c?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelbaade/)](https://www.linkedin.com/in/rafaelbaade/)
+[![Outlook Badge](https://img.shields.io/badge/-rafaelbaade@outlook.com-2c2c2c?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:rafaelbaade@outlook.com)](mailto:rafaelbaade@outlook.com)
 <!--
 **rafaelbaade/rafaelbaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
